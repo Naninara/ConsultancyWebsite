@@ -1,0 +1,260 @@
+*{
+margin: 0;
+padding: 0;
+overflow-x: hidden;
+}
+h1{
+	overflow: hidden;
+}
+
+#navbar {
+	background-color: #00b4cc;
+	position:sticky;
+	top: 0;
+	z-index: 10;
+	overflow: hidden;
+
+
+}
+#navbar .active{
+	border-bottom: 1px solid #ffff;
+}
+.sticky-top.navbar {
+    position: fixed;
+    background: #FFFFFF;
+}
+}
+#navbar i{
+	color: #ffff;
+	text-decoration: none;
+}
+.navbar-brand img{
+	height: 50px;
+	width: 100px;
+	margin-left: 20px;
+}
+
+.navbar-nav li{
+	padding: 0 10px;
+	float: right;
+	text-align: right;
+}
+.navbar-nav li a{
+	color: #ffff;
+	font-weight: 500;
+}
+.navbar-nav li a:hover{
+	border-bottom: 1px solid #ffff;
+	padding-top:10px;
+}
+/*----------intro-------------*/
+#intro{
+background-color: #00b4cc;
+padding: 10%;
+
+
+}
+	.title{
+	margin-top: 100px;
+	color: #ffff;
+	font-weight: 600;
+	font-size: 40px;
+	overflow: hidden;
+
+}	
+
+
+}
+#intro p{
+	color: #ffff;
+/*---------reach us---------*/
+}
+#reach{
+	background-color: #00b4cc;
+	margin-top: 50px;
+	padding: 3%;
+}
+#reach h1{
+	color: #ffff;
+	font-weight: 600;
+	overflow: hidden;
+
+}
+#reach label{
+	color: #fff;
+}
+#reach i{
+	position: absolute;
+}
+#reach .form-control{
+	border-radius:10px;
+}
+#reach i{
+	color: #ffff;
+}
+/*------------about--------*/
+
+#about{
+	margin-top: 50px;
+	text-align:justify;
+
+}
+#about h1{
+	text-transform: uppercase;
+	font-size: 40px;
+	font-weight: 600;
+	overflow: hidden;
+
+
+}
+#about p{
+	text-transform: uppercase;
+	font-weight: 600;
+
+}
+#about img{
+	
+}
+/*--------------services---------------*/
+#services{
+	margin-top: 50px;
+	
+}
+#services hr{
+	background-color:#00b4cc ;
+}
+#services h1{
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 600;
+	overflow: hidden;
+
+
+}
+#services p{
+	text-align: center;
+	font-weight: 600;
+	text-transform: uppercase;
+	margin-top: 20px;
+	font-size: 16px;
+
+}
+#services .col-md-4{
+	margin-top: 30px;
+	
+}
+#services img{
+	height: 250px;
+	width:500px;
+	box-shadow: 0px 0px 20px #00b4cc;
+}
+/*contact*/
+#contact{
+margin-top: 50px;
+}
+.contact {
+	text-align: center;
+
+}
+.contact i{
+	padding: 10px 30px;
+	transition: 0.5s;
+}
+.contact a:hover i{
+	transform: translateY(-10px);
+	
+}
+#contact h1{
+	text-align: center;
+	font-weight: 600;
+	margin-bottom: 30px;
+	overflow: hidden;
+
+}
+#footer{
+margin-top: 50px;
+background-color:  #00b4cc;
+padding-top: 20px;
+}
+#footer img{
+	height: 50px;
+	width: 100px;
+}
+#footer p{
+	font-weight: 600;
+	color: #090a0a;
+	text-transform: uppercase;
+	overflow: hidden;
+
+
+}
+#footer p i{
+	margin-right: 10px;
+
+}
+#footer a{
+	margin: 20px 0px;
+	color: #ffff;
+}
+#footer h4{
+	overflow: hidden;
+	text-transform: uppercase;
+}
+#footer ul{
+		list-style-type: none;
+		font-size: 20px;
+	}
+#footer .footer-links li{
+		margin-left: 1	0px;
+		margin-bottom: 5px;
+		color:#ffff;
+		font-weight: 600;
+}
+
+
+}
+#tickets{
+	padding-top: 50px;
+}
+#footer .footer-links li i{
+		margin-left: 20px;
+
+}
+
+#tickets .btn{
+	background:#00b4cc ;
+	color: #ffff;
+
+
+}
+#tickets button{
+	text-align: center;
+}
+#tickets h1{
+	margin-top: 30px;
+}
+/*------services page-----------*/
+#servicespage{
+	background-color:#00b4cc ;
+	padding: 7%;
+	text-align: center;
+
+}
+#servicespage h1{
+	font-size: 50px;
+	text-transform: uppercase;
+	color: #ffff;
+
+
+}
+#servicespage p{
+	color: #ffff;
+	font-weight: 600;
+	text-transform: uppercase;
+
+}
+
+
+
+
+
